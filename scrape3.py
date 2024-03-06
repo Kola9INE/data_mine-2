@@ -19,7 +19,7 @@ WEBADRESS = []
 PHYSICAL_ADDRESS = []
 EMAIL  = []
 
-driver.get("https://www.californiasbdc.org/find-your-sbdc/")
+driver.get("https://www.ca*************")
 driver.maximize_window()
 
 time.sleep(5)
